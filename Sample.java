@@ -3,6 +3,7 @@ public class Sample {
 		System.out.println("Hello World!");
 		System.out.println("Hello World!");
 		jane();
+		jane();
 	}
 
 	public static void jane() {
